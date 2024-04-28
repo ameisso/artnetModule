@@ -1,0 +1,14 @@
+{
+  "name": "artnetmodule",
+  "version": "1.0.0",
+  "description": "open stage control artnet module",
+  "main": "artnetModule.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "ameisso",
+  "license": "ISC",
+  "dependencies": {
+    "artnet": "^1.4.0"
+  }
+}
